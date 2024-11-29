@@ -66,12 +66,14 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓆏+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓆏)](https://git.io/typing-svg)
 
+
+
 </p>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tanyaMashamba01/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓅓)](https://git.io/typing-svg)
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -145,7 +147,7 @@ The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://openso
 ## DEVELOPERS :
 
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
-- [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
+- [**Developers YT**](https://youtube.com/@a/Joshuamambo1)
 - [**HANSTZ TECH**](https://github.com/HANSTZ3)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
