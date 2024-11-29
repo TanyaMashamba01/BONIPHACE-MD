@@ -60973,10 +60973,8 @@
 #!/usr/adams
 
 """
-Author             : Bonifhace Tech
-contact            : hanstztech@gmail.com
-Github             : https://github.com/boniphace478
-my WhatsApp channel : https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+Author             : Joshuamambo1jzz
+my WhatsApp group : https://chat.whatsapp.com/FCURRZJoRUd6Tuvf6DwUnZ
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
