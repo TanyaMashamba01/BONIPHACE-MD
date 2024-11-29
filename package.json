@@ -106289,18 +106289,18 @@
 
 
 {
-  "name": "BONIFHACE-MD",
+  "name": "Joshuamambo1jzz",
   "version": "10.8.1",
-  "description": "BONIFHACE-MD latest multi device whatsapp bot",
+  "description": "Joshuamambo1jzz latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start body.js --deep-monitoring --attach --name BONIFHACE-MD",
-    "stop": "pm2 stop BONIFHACE-MD",
-    "restart": "pm2 restart BONIFHACE-MD"
+    "stop": "pm2 stop Joshuamambo1jzz",
+    "restart": "pm2 restart Joshuamambo1jzz"
   },
-  "keywords": ["bonifhace-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Bonifhace Adams",
+  "keywords": ["Joshuamambo1jzz", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Joshuamambo1 Adams",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
